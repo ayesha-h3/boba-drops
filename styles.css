@@ -25,3 +25,8 @@ body {
 nav {
     background-color:cadetblue
 }
+
+nav a {
+    font-family: "Comfortaa", sans-serif;
+    color: "Azure"
+}
