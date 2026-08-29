@@ -12,5 +12,9 @@ h3{
 }
 ul{
     font-family: "Cardo", sans-serif;
-    color: "Gray"
+    color: "Gray";
+}
+ol{
+    font-family: "Cardo", sans-serif;
+    color: "Gray";
 }
