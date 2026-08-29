@@ -18,12 +18,13 @@ ol{
     font-family: "Inria Serif", sans-serif;
     color: "Gray";
 }
+
 body {
     background-color:azure
 }
 
 nav {
-    background-color:cadetblue
+    background-color:gainsboro
 }
 
 nav a {
